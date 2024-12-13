@@ -1,9 +1,141 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Página-1" id="98P7KAkGwa1_GjBiiAFi">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lW0yF-08GtttbcSBZcm5-1" value="Inicio" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="382" y="20" width="99" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-2" value="Empresa registra su cuenta en la billetera electrónica" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="304" y="118" width="254" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-3" value="Configuración de datos de empleados en la plataforma" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="308" y="234" width="247" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-4" value="Subida del archivo de nómina por la empresa" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="319" y="368" width="224" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-5" value="Validación de datos y formato del archivo" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="325" y="484" width="213" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-6" value="Confirmación de la nómina para procesamiento" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="305" y="600" width="253" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-7" value="Verificación de fondos en la cuenta de la empresa" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="301" y="716" width="260" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-8" value="Fondos suficientes" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="341" y="832" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-9" value="Procesamiento del pago a las billeteras de empleados" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="157" y="1085" width="256" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-10" value="Notificación de falta de fondos a la empresa" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="463" y="1085" width="230" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-11" value="Notificación de depósito a los empleados" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1209" width="248" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-12" value="Generación de comprobantes para la empresa" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="318" y="1201" width="216" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-13" value="Confirmación del pago en la billetera de empleados" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="22" y="1334" width="243" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-14" value="Reporte de pagos y comisiones" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="327" y="1334" width="198" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-15" value="Fin del proceso" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1450" width="169" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="lW0yF-08GtttbcSBZcm5-1" target="lW0yF-08GtttbcSBZcm5-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="lW0yF-08GtttbcSBZcm5-2" target="lW0yF-08GtttbcSBZcm5-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="lW0yF-08GtttbcSBZcm5-3" target="lW0yF-08GtttbcSBZcm5-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="lW0yF-08GtttbcSBZcm5-4" target="lW0yF-08GtttbcSBZcm5-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="lW0yF-08GtttbcSBZcm5-5" target="lW0yF-08GtttbcSBZcm5-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="lW0yF-08GtttbcSBZcm5-6" target="lW0yF-08GtttbcSBZcm5-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="lW0yF-08GtttbcSBZcm5-7" target="lW0yF-08GtttbcSBZcm5-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-23" value="Sí" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="lW0yF-08GtttbcSBZcm5-8" target="lW0yF-08GtttbcSBZcm5-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="1048" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-24" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="lW0yF-08GtttbcSBZcm5-8" target="lW0yF-08GtttbcSBZcm5-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="578" y="1048" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="lW0yF-08GtttbcSBZcm5-9" target="lW0yF-08GtttbcSBZcm5-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="144" y="1176" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="lW0yF-08GtttbcSBZcm5-9" target="lW0yF-08GtttbcSBZcm5-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="426" y="1176" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="lW0yF-08GtttbcSBZcm5-11" target="lW0yF-08GtttbcSBZcm5-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="lW0yF-08GtttbcSBZcm5-12" target="lW0yF-08GtttbcSBZcm5-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.09;entryY=0;rounded=0;" edge="1" parent="1" source="lW0yF-08GtttbcSBZcm5-13" target="lW0yF-08GtttbcSBZcm5-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="144" y="1425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW0yF-08GtttbcSBZcm5-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.91;entryY=0;rounded=0;" edge="1" parent="1" source="lW0yF-08GtttbcSBZcm5-14" target="lW0yF-08GtttbcSBZcm5-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="426" y="1425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
